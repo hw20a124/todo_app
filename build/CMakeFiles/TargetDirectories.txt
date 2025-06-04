@@ -1,0 +1,5 @@
+/Users/hw20a124/Desktop/ToDoApp/build/CMakeFiles/ToDoApp.dir
+/Users/hw20a124/Desktop/ToDoApp/build/CMakeFiles/edit_cache.dir
+/Users/hw20a124/Desktop/ToDoApp/build/CMakeFiles/rebuild_cache.dir
+/Users/hw20a124/Desktop/ToDoApp/build/CMakeFiles/ToDoApp_autogen_timestamp_deps.dir
+/Users/hw20a124/Desktop/ToDoApp/build/CMakeFiles/ToDoApp_autogen.dir
