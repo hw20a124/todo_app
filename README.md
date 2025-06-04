@@ -8,7 +8,7 @@
 - Qt 6
 - CMake
 
-## 主な技術
+## 主な機能
 
 - タスクの追加・編集・削除
 - 各タスクに期限(締切日)を設定可能
@@ -34,7 +34,11 @@ cmake --build .
 todo_app/
 ├── CMakeLists.txt
 ├── main.cpp
-├── tasks.txt     # 保存されたタスク情報
+├── build/tasks.txt     # 保存されたタスク情報
 └── README.md
 ```
+## 作者情報
+
+- 制作者:溝内 航
+
 
